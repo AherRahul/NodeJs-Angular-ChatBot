@@ -1,5 +1,5 @@
 # ng-chat-nodejs
-A simple Node.js application that uses [ng-chat](https://github.com/rpaschoal/ng-chat).
+A simple Node.js application that uses [ng-chat].
 
 ### How to run this project
 
@@ -23,5 +23,5 @@ Check the following files in this project:
 
 ### Considerations
 
-This project is just a socket.io + [ng-chat](https://github.com/rpaschoal/ng-chat) sample. This code is not production ready.
+This project is just a socket.io + [ng-chat] sample. This code is not production ready.
 
